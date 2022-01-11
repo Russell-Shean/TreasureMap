@@ -6,5 +6,6 @@
 # Passwords for example map
 - First password: password1
 - Second password: password2
-
+________
+# Screenshot
 ![image](https://user-images.githubusercontent.com/73149125/148891991-2162c61d-83af-4110-ad60-b01f84ed9562.png)
